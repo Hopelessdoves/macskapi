@@ -5,10 +5,7 @@ body {
     color: pink;
     font-size: 1.5rem;
 }
-button {
-    color: aliceblue;
-    font-family: cursive;
-    background-color: pink;
-    font-size: 1.5rem;
-    border-radius: 5px;
+
+h1 {
+    text-align: center;
 }
